@@ -1,4 +1,4 @@
 # blogwebsite
 this is my first github repository
 <br>
-Author-varsha karne
+Author-Varsha Karne
